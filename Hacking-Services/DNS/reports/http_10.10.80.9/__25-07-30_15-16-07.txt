@@ -1,0 +1,38 @@
+# Dirsearch started Wed Jul 30 15:18:36 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.80.9/
+
+200   449B   http://10.10.80.9/.github/
+200   229B   http://10.10.80.9/.gitignore
+403   275B   http://10.10.80.9/.ht_wsr.txt
+403   275B   http://10.10.80.9/.htaccess.bak1
+403   275B   http://10.10.80.9/.htaccess.orig
+403   275B   http://10.10.80.9/.htaccess.save
+403   275B   http://10.10.80.9/.htaccess.sample
+403   275B   http://10.10.80.9/.htaccess_extra
+403   275B   http://10.10.80.9/.htaccess_sc
+403   275B   http://10.10.80.9/.htaccess_orig
+403   275B   http://10.10.80.9/.htaccessOLD
+403   275B   http://10.10.80.9/.htaccessBAK
+403   275B   http://10.10.80.9/.htaccessOLD2
+403   275B   http://10.10.80.9/.htm
+403   275B   http://10.10.80.9/.html
+403   275B   http://10.10.80.9/.htpasswd_test
+403   275B   http://10.10.80.9/.htpasswds
+403   275B   http://10.10.80.9/.httr-oauth
+403   275B   http://10.10.80.9/.php
+200     2KB  http://10.10.80.9/about.php
+200     7KB  http://10.10.80.9/CHANGELOG.md
+301   309B   http://10.10.80.9/config    -> REDIRECTS TO: http://10.10.80.9/config/
+200   490B   http://10.10.80.9/config/
+301   307B   http://10.10.80.9/docs    -> REDIRECTS TO: http://10.10.80.9/docs/
+200   487B   http://10.10.80.9/docs/
+200   473B   http://10.10.80.9/dvwa/
+200     1KB  http://10.10.80.9/favicon.ico
+200   642B   http://10.10.80.9/login.php
+200   154B   http://10.10.80.9/php.ini
+200    15KB  http://10.10.80.9/README.md
+200    26B   http://10.10.80.9/robots.txt
+403   275B   http://10.10.80.9/server-status
+403   275B   http://10.10.80.9/server-status/
+200   653B   http://10.10.80.9/setup.php
+301   308B   http://10.10.80.9/tests    -> REDIRECTS TO: http://10.10.80.9/tests/
+200   475B   http://10.10.80.9/tests/
